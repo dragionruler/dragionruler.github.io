@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+
+<div class="container">
+  
+
+<header>
+   <h1>Portfolio</h1>
+</header>
+  <nav>
+  <ul>
+    <li> <a href="index1.html">Home</a>
+    <li> <a href="_assets/images/html_Key.jpg">Key Club Experiences</a>
+    <li> <a href="_assets/images/html_John.jpg">Certificate From John Heck</a>
+    <li> <a href="_assets/images/html_web.jpg">My Classroom Of Web Design</a>
+    <li> <a href="_assets/images/html_web.jpg">App Challenge Of Trova</a>
+    <li> <a href="_assets/images/html_Key.jpg">Quiz Maker Of Web Design</a>
+    <li> <a href="_assets/images/html_Key.jpg">Marketing For Computer</a>
+    <li> <a href="_assets/images/html_Key.jpg">Spanish Site For Web Design</a>
+
+</nav>
+<article>
+ <p>The Martin Luther King Jr. that we celebrate every year is no longer a man or a movement. The annual holiday is no longer a remembrance. Like the creation of the Christmas holiday to pacify, assimilate, and eventually control pagan populations by twisting their sacred truths into brightly colored lies, the narrative of the Martin Luther King Jr. holiday (along with the oversimplified, whitewashed chapters of civil rights history only opened in schools during this week and the month of February) works to distract and weaken black Americans while strengthening white supremacy.</p></article>
+
+ <p>My children will have already forgotten the annual MLK school assembly, held the Friday before the holiday. They will have forgotten the scary stories about how very bad the racist past of America was. They will have forgotten their momentary outrage at the thought of segregated buses, restaurants, and drinking fountains. They will have forgotten their sense of relief that, thanks to Dr. King, those dark times are over now. They will deposit the lingering whispers of MLK’s dream and images of him walking, arms linked with people black and white toward a colorblind future, into the same vault that holds the identical images from years past. Then they will rush to their Xbox consoles.</p></article>
+
+ <p>My children will have already forgotten the annual MLK school assembly, held the Friday before the holiday. They will have forgotten the scary stories about how very bad the racist past of America was. They will have forgotten their momentary outrage at the thought of segregated buses, restaurants, and drinking fountains. They will have forgotten their sense of relief that, thanks to Dr. King, those dark times are over now. They will deposit the lingering whispers of MLK’s dream and images of him walking, arms linked with people black and white toward a colorblind future, into the same vault that holds the identical images from years past. Then they will rush to their Xbox consoles.</p></article>
+
+ <p>My children will have already forgotten the annual MLK school assembly, held the Friday before the holiday. They will have forgotten the scary stories about how very bad the racist past of America was. They will have forgotten their momentary outrage at the thought of segregated buses, restaurants, and drinking fountains. They will have forgotten their sense of relief that, thanks to Dr. King, those dark times are over now. They will deposit the lingering whispers of MLK’s dream and images of him walking, arms linked with people black and white toward a colorblind future, into the same vault that holds the identical images from years past. Then they will rush to their Xbox consoles.</p></article>                 
+ <p>This is a summary of junior year. Well lets get strted. Junior year was alot of work. I didnt expect this one. Turn out When I was a sophomore I hear alot of rumuor that junior year is hard, and more work than before. Sometime a rumor is true and turn out it was. This is all the project that we did for junior year. Here we go. The app challenge, Winter PBL, Quiz Maker, News reporter for Ms Nelson project, English portfolio, English PBL of history, and Skills form. I think that's all I can think of for junior year. Now Ill explain for each of the project individual.</p></article>
+
+<footer>Copyright © 2017ThomasPhamPortfolio</footer>
+
+
+</div>
+
+</body>
+</html>
+
+
+
+
