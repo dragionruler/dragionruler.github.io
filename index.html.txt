@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="_assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+
+<div class="container">
+  
+
+<header>
+   <h1> My Portfolio</h1>
+</header>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1C5693;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+background-color:#4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#contact">Contact Information</a></li>
+  <li><a href="aboutme.html">About Me</a></li>
+  <li><a href="freshman.html">Freshman Year</a></li>
+  <li><a href="sophomore.html">Sophomore Year</a></li>
+  <li><a href="junior.html">Junior Year</a></li>
+  <li><a href="junior.html">Big Project</a></li>
+  <li><a href="learning.html">What I Learn From The Past Three Years</a></li>
+  <li><a href="achievement.html">Achievement </a></li>
+  <li><a href="resume.html">Resume </a></li>
+  <li><a href="resume.html">Senior Capstone </a></li>
+
+
+
+
+</ul>
+
+</body>
+</html>
+  <nav>
+  <ul>
+    <li> <a href="_assets/images/html_.jpg">Cafeteria Experiences</a>
+    <li> <a href="_assets/images/html_Key.jpg">Key Club Experiences</a>
+    <li> <a href="_assets/images/html_John.jpg">Certificate From John Heck</a>
+    <li> <a href="_assets/images/html_web.jpg">My Classroom Of Web Design</a>
+    <li> <a href="_assets/images/html_web.jpg">App Challenge Of Trova</a>
+    <li> <a href="_assets/images/html_Key.jpg">Quiz Maker Of Web Design</a>
+    <li> <a href="_assets/images/html_Key.jpg">Marketing For Computer
+</a>
+    <li> <a href="_assets/images/html_Key.jpg">Spanish Site For Web Design</a>
+    <li> <a href="_assets/images/html_Key.jpg">Historical Narrative</a>
+    <li> <a href="_assets/images/html_Key.jpg">Team Work For Grahic Design</a>
+
+</nav>
+<article>
+  <h1>On the left hand corner that you see that all the prove that happen.</h1>
+
+
+</article>
+
+<footer>Copyright © 2017ThomasPhamPortfolio</footer>
+
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
